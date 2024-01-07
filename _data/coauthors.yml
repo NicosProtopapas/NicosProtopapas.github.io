@@ -1,34 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Christodoulou":
+  - firstname: ["George", "G."]
+    url: https://sites.google.com/view/gchristo
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Caragiannis":
+  - firstname: ["Ioannis", "I."]
+    url: https://cs.au.dk/~iannis
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kanellopoulos":
+  - firstname: ["Panagiotis", "P."]
+    url: https://www.essex.ac.uk/people/kanel33803/panagiotis-kanellopoulos
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Voudouris":
+  - firstname: ["Alexandros A.", "A.A."]
+    url: https://www.alexvoudouris.com
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Krimpas":
+  - firstname: ["George A.", "George", "G.A.", "G."]
+    url: http://students.ceid.upatras.gr/~krimpas
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Yazdanpanah":
+  - firstname: ["Vahid", "V."]
+    url: https://vahid.yazdanpanah.net
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Gerding":
+  - firstname: ["Enrico", "E. H.", "Enrico H."]
+    url: https://www.southampton.ac.uk/people/5x2dnl/professor-enrico-gerding
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Bouras":
+  - firstname: ["Christos", "C."]
+    url: http://telematics.upatras.gr/telematics/bouras
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Stein":
+  - firstname: ["Sebastian", "S."]
+    url: https://www.southampton.ac.uk/people/5x5r59/professor-sebastian-stein

@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my academic website.
 
-I am currently a postdoctoral researcher in the [Archmides Research Unit](https://archimedesai.gr) at the [Athena Research Center](https://www.athenarc.gr), working on the interplay between machine learning and mechanism design.
+I am currently a postdoctoral researcher in the [Archimides Research Unit](https://archimedesai.gr) at the [Athena Research Center](https://www.athenarc.gr), working on the interplay between machine learning and mechanism design.
 
 I have earned my [PhD](https://livrepository.liverpool.ac.uk/3154234/1/201264352_April2022.pdf) at the University of Liverpool, under the guidance of [George Christodoulou](https://sites.google.com/view/gchristo), working in problems of mechanism design where monetary transactions are not possible. 
 

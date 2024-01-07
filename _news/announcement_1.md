@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper "Impartial selection with prior information" with Ioannis Caragiannis and Goerge Christodoulou has been accepted for publication in the Web Conference of 2023!
+The paper *Impartial selection with prior information* with Ioannis Caragiannis and George Christodoulou has been accepted for publication in the WebConf 2023!

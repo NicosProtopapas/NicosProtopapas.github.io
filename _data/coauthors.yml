@@ -39,5 +39,9 @@
     url: http://pages.cs.aueb.gr/~markakis
 
 "Mancho":
-  -  firstname: ["Alviona", "A."]
-  - url: https://alvionam.github.io/
+  - firstname: ["Alviona", "A."]
+  url: https://alvionam.github.io/
+
+"Melissourgos":
+  - firstname: ["Themistoklis ", "T."]
+    url: https://sites.google.com/view/themistoklismelissourgos

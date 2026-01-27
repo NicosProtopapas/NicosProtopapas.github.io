@@ -33,3 +33,11 @@
 "Stein":
   - firstname: ["Sebastian", "S."]
     url: https://www.southampton.ac.uk/people/5x5r59/professor-sebastian-stein
+
+"Markakis":
+  - firstname: ["Evangelos", "E."]
+    url: http://pages.cs.aueb.gr/~markakis
+
+"Mancho":
+  -  firstname: ["Alviona", "A."]
+  - url: https://alvionam.github.io/

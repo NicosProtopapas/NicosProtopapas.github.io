@@ -21,13 +21,15 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my academic website.
 
-I am currently a postdoctoral researcher in the [Archimides Research Unit](https://archimedesai.gr) at the [Athena Research Center](https://www.athenarc.gr), working on the interplay between machine learning and mechanism design.
+I am currently an adjunct lecturer at the [Department of Information and Communication Systems Engineering (ICSD)](https://www.icsd.aegean.gr/) at the University of the Aegean. This semester, I am teaching Discrete Math and Numerical Analysis.
+
+Prior to that, I was a postdoctoral researcher in the [Archimedes Research Unit](https://archimedesai.gr) at the [Athena Research Center](https://www.athenarc.gr), working on the interplay between machine learning and mechanism design.
 
 I have earned my [PhD](https://livrepository.liverpool.ac.uk/3154234/1/201264352_April2022.pdf) at the University of Liverpool, under the guidance of [George Christodoulou](https://sites.google.com/view/gchristo), working in problems of mechanism design where monetary transactions are not possible. 
 
 My main research interests lie between computer science, economics and artificial intelligence, and mostly revolve around algorithmic game theory and mechanism design.
 
-In the past I was affiliated with the
+In the past, I was affiliated with the
 [Efficient Resource Allocation in 5G and Beyond Networks](https://era5g.upatras.gr) project at the University of Patras, working primarily on game-theoretic
 aspects of resource allocation in wireless networks. Previous to that I worked as a research assistant at the
 [Citizen-Centric AI systems](https://www.ccais.ac.uk) project of the University of Southampton.

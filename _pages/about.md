@@ -7,8 +7,8 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-    more_info: 
+  image_circular: false
+  more_info: >
     <p>University of the Aegean</p>
     <p>Office B5, Second Floor</p>
     <p>Lymberis Building</p>

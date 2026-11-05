@@ -8,10 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Research Center ATHENA </p>
-    <p>1 Artemidos str. </p>
-    <p>15125, Marousi, Greece</p>
+    more_info: >
+    <p>University of the Aegean</p>
+    <p>Office B5, Second Floor</p>
+    <p>Lymberis Building</p>
+    <p>2 Palama &amp; Gorgyras Streets</p>
+    <p>Karlovassi, Samos 83200, Greece</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
